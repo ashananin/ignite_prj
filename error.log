@@ -1,0 +1,280 @@
+1492104 [main] INFO SeparateJVM$Server - Port 48000 is free
+1492104 [main] INFO SeparateJVM$Server - Port 48001 is free
+1492104 [main] INFO SeparateJVM$Server - Port 48002 is free
+1492104 [main] INFO SeparateJVM$Server - Port 48003 still busy, waiting...
+1492205 [main] INFO SeparateJVM$Server - Port 48003 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48004 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48005 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48006 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48007 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48008 is free
+1492205 [main] INFO SeparateJVM$Server - Port 48009 is free
+1492205 [main] INFO SeparateJVM$Server - reportPort=48000 discoPort=48001
+273 [main] INFO Node - Working dir: /tmp/Node614745754534973203
+261 [main] INFO Node - Working dir: /tmp/Node3626461452973471342
+Sep 06, 2021 8:47:46 PM java.util.logging.LogManager$RootLogger log
+WARNING: Failed to resolve default logging config file: config/java.util.logging.properties
+Sep 06, 2021 8:47:46 PM java.util.logging.LogManager$RootLogger log
+WARNING: Failed to resolve default logging config file: config/java.util.logging.properties
+313 [main] INFO Node - Working dir: /tmp/Node6557150693206316652
+Sep 06, 2021 8:47:46 PM java.util.logging.LogManager$RootLogger log
+WARNING: Failed to resolve default logging config file: config/java.util.logging.properties
+[20:47:46]    __________  ________________
+[20:47:46]   /  _/ ___/ |/ /  _/_  __/ __/
+[20:47:46]  _/ // (7 7    // /  / / / _/
+[20:47:46] /___/\___/_/|_/___/ /_/ /___/
+[20:47:46]
+[20:47:46] ver. 2.10.0#20210310-sha1:bc24f6ba
+[20:47:46] 2021 Copyright(C) Apache Software Foundation
+[20:47:46]
+[20:47:46] Ignite documentation: http://ignite.apache.org
+[20:47:46]
+[20:47:46] Quiet mode.
+[20:47:46]   ^-- Logging by 'JavaLogger [quiet=true, config=null]'
+[20:47:46]   ^-- To see **FULL** console log here add -DIGNITE_QUIET=false or "-v" to ignite.{sh|bat}
+[20:47:46]
+[20:47:46]    __________  ________________
+[20:47:46]   /  _/ ___/ |/ /  _/_  __/ __/
+[20:47:46]  _/ // (7 7    // /  / / / _/
+[20:47:46] /___/\___/_/|_/___/ /_/ /___/
+[20:47:46]
+[20:47:46] ver. 2.10.0#20210310-sha1:bc24f6ba
+[20:47:46] 2021 Copyright(C) Apache Software Foundation
+[20:47:46]
+[20:47:46] Ignite documentation: http://ignite.apache.org
+[20:47:46]
+[20:47:46] Quiet mode.
+[20:47:46]    __________  ________________
+[20:47:46]   /  _/ ___/ |/ /  _/_  __/ __/
+[20:47:46]  _/ // (7 7    // /  / / / _/
+[20:47:46] /___/\___/_/|_/___/ /_/ /___/
+[20:47:46]
+[20:47:46] ver. 2.10.0#20210310-sha1:bc24f6ba
+[20:47:46] 2021 Copyright(C) Apache Software Foundation
+[20:47:46]
+[20:47:46] Ignite documentation: http://ignite.apache.org
+[20:47:46]
+[20:47:46] Quiet mode.
+[20:47:46] OS: Linux 5.4.0-81-generic i386
+[20:47:46] VM information: Java(TM) SE Runtime Environment 1.8.0_291-b10 Oracle Corporation Java HotSpot(TM) Server VM 25.291-b10
+[20:47:46] Please set system property '-Djava.net.preferIPv4Stack=true' to avoid possible problems in mixed environments.
+[20:47:46]   ^-- Logging by 'JavaLogger [quiet=true, config=null]'
+[20:47:46]   ^-- To see **FULL** console log here add -DIGNITE_QUIET=false or "-v" to ignite.{sh|bat}
+[20:47:46]
+[20:47:46]   ^-- Logging by 'JavaLogger [quiet=true, config=null]'
+[20:47:46]   ^-- To see **FULL** console log here add -DIGNITE_QUIET=false or "-v" to ignite.{sh|bat}
+[20:47:46]
+[20:47:46] Initial heap size is 64MB (should be no less than 512MB, use -Xms512m -Xmx512m).
+[20:47:46] OS: Linux 5.4.0-81-generic i386
+[20:47:46] VM information: Java(TM) SE Runtime Environment 1.8.0_291-b10 Oracle Corporation Java HotSpot(TM) Server VM 25.291-b10
+[20:47:46] OS: Linux 5.4.0-81-generic i386
+[20:47:46] VM information: Java(TM) SE Runtime Environment 1.8.0_291-b10 Oracle Corporation Java HotSpot(TM) Server VM 25.291-b10
+[20:47:46] Please set system property '-Djava.net.preferIPv4Stack=true' to avoid possible problems in mixed environments.
+[20:47:46] Please set system property '-Djava.net.preferIPv4Stack=true' to avoid possible problems in mixed environments.
+[20:47:46] Initial heap size is 64MB (should be no less than 512MB, use -Xms512m -Xmx512m).
+[20:47:46] Initial heap size is 64MB (should be no less than 512MB, use -Xms512m -Xmx512m).
+[20:47:46] Configured plugins:
+[20:47:46]   ^-- None
+[20:47:46]
+[20:47:46] Configured failure handler: [hnd=StopNodeOrHaltFailureHandler [tryStop=false, timeout=0, super=AbstractFailureHandler [ignoredFailureTypes=UnmodifiableSet [SYSTEM_WORKER_BLOCKED, SYSTEM_CRITICAL_OPERATION_TIMEOUT]]]]
+[20:47:46] Configured plugins:
+[20:47:46]   ^-- None
+[20:47:46]
+[20:47:46] Configured plugins:
+[20:47:46]   ^-- None
+[20:47:46]
+[20:47:46] Configured failure handler: [hnd=StopNodeOrHaltFailureHandler [tryStop=false, timeout=0, super=AbstractFailureHandler [ignoredFailureTypes=UnmodifiableSet [SYSTEM_WORKER_BLOCKED, SYSTEM_CRITICAL_OPERATION_TIMEOUT]]]]
+[20:47:46] Configured failure handler: [hnd=StopNodeOrHaltFailureHandler [tryStop=false, timeout=0, super=AbstractFailureHandler [ignoredFailureTypes=UnmodifiableSet [SYSTEM_WORKER_BLOCKED, SYSTEM_CRITICAL_OPERATION_TIMEOUT]]]]
+Sep 06, 2021 8:47:46 PM org.apache.ignite.logger.java.JavaLogger error
+SEVERE: Failed to send message: TcpDiscoveryClientMetricsUpdateMessage [super=TcpDiscoveryAbstractMessage [sndNodeId=null, id=7a252aabb71-34cac23c-c285-4ce7-aa61-ca93b3ec04f3, verifierNodeId=null, topVer=0, pendingIdx=0, failedNodes=null, isClient=true]]
+java.net.SocketException: Socket is closed
+	at java.net.Socket.getSendBufferSize(Socket.java:1232)
+	at org.apache.ignite.spi.discovery.tcp.TcpDiscoverySpi.socketStream(TcpDiscoverySpi.java:1561)
+	at org.apache.ignite.spi.discovery.tcp.TcpDiscoverySpi.writeToSocket(TcpDiscoverySpi.java:1701)
+	at org.apache.ignite.spi.discovery.tcp.ClientImpl$SocketWriter.body(ClientImpl.java:1445)
+	at org.apache.ignite.spi.IgniteSpiThread.run(IgniteSpiThread.java:58)
+
+[20:47:46] Message queue limit is set to 0 which may lead to potential OOMEs when running cache operations in FULL_ASYNC or PRIMARY_SYNC modes due to message queues growth on sender and receiver sides.
+[20:47:46] Message queue limit is set to 0 which may lead to potential OOMEs when running cache operations in FULL_ASYNC or PRIMARY_SYNC modes due to message queues growth on sender and receiver sides.
+[20:47:47] Message queue limit is set to 0 which may lead to potential OOMEs when running cache operations in FULL_ASYNC or PRIMARY_SYNC modes due to message queues growth on sender and receiver sides.
+[20:47:47] Security status [authentication=off, sandbox=off, tls/ssl=off]
+[20:47:47] Security status [authentication=off, sandbox=off, tls/ssl=off]
+[20:47:47] Security status [authentication=off, sandbox=off, tls/ssl=off]
+[20:47:49] Joining node doesn't have stored group keys [node=c743002a-3ac4-4e3c-a9e9-c0bbc53a8995]
+[20:47:50] Joining node doesn't have stored group keys [node=1174ad24-a9f1-4edb-b1a1-79c79a8b4ec5]
+[20:47:50] Topology snapshot [ver=2, locNode=90e694e7, servers=2, clients=0, state=ACTIVE, CPUs=8, offheap=6.1GB, heap=1.8GB]
+[20:47:50]   ^-- Baseline [id=0, size=2, online=2, offline=0]
+[20:47:50] Data Regions Started: 4
+[20:47:50]     ^--   sysMemPlc region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   default region [type=default, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=256MB, maxCfg=3136MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+[20:47:50]     ^--   TxLog region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   volatileDsMemPlc region [type=user, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+[20:47:50] Topology snapshot [ver=3, locNode=90e694e7, servers=3, clients=0, state=ACTIVE, CPUs=8, offheap=9.2GB, heap=2.7GB]
+[20:47:50]   ^-- Baseline [id=0, size=3, online=3, offline=0]
+[20:47:50] Topology snapshot [ver=3, locNode=c743002a, servers=3, clients=0, state=ACTIVE, CPUs=8, offheap=9.2GB, heap=2.7GB]
+[20:47:50]   ^-- Baseline [id=0, size=3, online=3, offline=0]
+[20:47:50] Nodes started on local machine require more than 80% of physical RAM what can lead to significant slowdown due to swapping (please decrease JVM heap size, data region size or checkpoint buffer size) [required=12440MB, available=15682MB]
+[20:47:50] Data Regions Started: 4
+[20:47:50]     ^--   sysMemPlc region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   default region [type=default, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=256MB, maxCfg=3136MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+[20:47:50]     ^--   TxLog region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   volatileDsMemPlc region [type=user, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+[20:47:50] Data Regions Started: 4
+[20:47:50]     ^--   sysMemPlc region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   default region [type=default, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=256MB, maxCfg=3136MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+[20:47:50]     ^--   TxLog region [type=internal, persistence=false, lazyAlloc=false,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=40MB]
+[20:47:50]     ^--   volatileDsMemPlc region [type=user, persistence=false, lazyAlloc=true,
+[20:47:50]       ...  initCfg=40MB, maxCfg=100MB, usedRam=0MB, freeRam=100%, allocRam=0MB]
+4915 [services-deployment-worker-#66] INFO SeparateJVM$Server - Reporting INIT	90e694e7-467d-4cc0-806a-1599c085cdbf to port 48000
+1497294 [Thread-246] INFO SeparateJVM$Server - Reported INIT	90e694e7-467d-4cc0-806a-1599c085cdbf
+[20:47:50] Performance suggestions for grid  (fix if possible)
+[20:47:50] To disable, set -DIGNITE_PERFORMANCE_SUGGESTIONS_DISABLED=true
+[20:47:50]   ^-- Enable G1 Garbage Collector (add '-XX:+UseG1GC' to JVM options)
+[20:47:50]   ^-- Specify JVM heap max size (add '-Xmx<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Set max direct memory size if getting 'OOME: Direct buffer memory' (add '-XX:MaxDirectMemorySize=<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Disable processing of calls to System.gc() (add '-XX:+DisableExplicitGC' to JVM options)
+[20:47:50]   ^-- Speed up flushing of dirty pages by OS (alter vm.dirty_writeback_centisecs and vm.dirty_expire_centisecs parameters by setting to 500)
+[20:47:50]   ^-- Reduce pages swapping ratio (set vm.swappiness=10 or less)
+[20:47:50] Refer to this page for more performance suggestions: https://apacheignite.readme.io/docs/jvm-and-system-tuning
+[20:47:50]
+[20:47:50] To start Console Management & Monitoring run ignitevisorcmd.{sh|bat}
+[20:47:50]
+[20:47:50] Ignite node started OK (id=90e694e7)
+[20:47:50] Topology snapshot [ver=1, locNode=90e694e7, servers=1, clients=0, state=ACTIVE, CPUs=8, offheap=3.1GB, heap=0.89GB]
+[20:47:50]   ^-- Baseline [id=0, size=1, online=1, offline=0]
+4926 [service-#67] INFO SeparateJVM$Server - Reporting EXECUTE	90e694e7-467d-4cc0-806a-1599c085cdbf to port 48000
+1497305 [Thread-246] INFO SeparateJVM$Server - Reported EXECUTE	90e694e7-467d-4cc0-806a-1599c085cdbf
+4927 [main] INFO SeparateJVM$Server - Reporting START	90e694e7-467d-4cc0-806a-1599c085cdbf to port 48000
+1497306 [Thread-246] INFO SeparateJVM$Server - Reported START	90e694e7-467d-4cc0-806a-1599c085cdbf
+[20:47:50] Performance suggestions for grid  (fix if possible)
+[20:47:50] To disable, set -DIGNITE_PERFORMANCE_SUGGESTIONS_DISABLED=true
+[20:47:50]   ^-- Enable G1 Garbage Collector (add '-XX:+UseG1GC' to JVM options)
+[20:47:50]   ^-- Specify JVM heap max size (add '-Xmx<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Set max direct memory size if getting 'OOME: Direct buffer memory' (add '-XX:MaxDirectMemorySize=<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Disable processing of calls to System.gc() (add '-XX:+DisableExplicitGC' to JVM options)
+[20:47:50]   ^-- Speed up flushing of dirty pages by OS (alter vm.dirty_writeback_centisecs and vm.dirty_expire_centisecs parameters by setting to 500)
+[20:47:50]   ^-- Reduce pages swapping ratio (set vm.swappiness=10 or less)
+[20:47:50] Refer to this page for more performance suggestions: https://apacheignite.readme.io/docs/jvm-and-system-tuning
+[20:47:50]
+[20:47:50] To start Console Management & Monitoring run ignitevisorcmd.{sh|bat}
+[20:47:50]
+[20:47:50] Ignite node started OK (id=1174ad24)
+[20:47:50] Topology snapshot [ver=3, locNode=1174ad24, servers=3, clients=0, state=ACTIVE, CPUs=8, offheap=9.2GB, heap=2.7GB]
+[20:47:50]   ^-- Baseline [id=0, size=3, online=3, offline=0]
+[20:47:50] Performance suggestions for grid  (fix if possible)
+[20:47:50] To disable, set -DIGNITE_PERFORMANCE_SUGGESTIONS_DISABLED=true
+[20:47:50]   ^-- Enable G1 Garbage Collector (add '-XX:+UseG1GC' to JVM options)
+5098 [main] INFO SeparateJVM$Server - Reporting START	c743002a-3ac4-4e3c-a9e9-c0bbc53a8995 to port 48000
+[20:47:50]   ^-- Specify JVM heap max size (add '-Xmx<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Set max direct memory size if getting 'OOME: Direct buffer memory' (add '-XX:MaxDirectMemorySize=<size>[g|G|m|M|k|K]' to JVM options)
+[20:47:50]   ^-- Disable processing of calls to System.gc() (add '-XX:+DisableExplicitGC' to JVM options)
+[20:47:50]   ^-- Speed up flushing of dirty pages by OS (alter vm.dirty_writeback_centisecs and vm.dirty_expire_centisecs parameters by setting to 500)
+[20:47:50]   ^-- Reduce pages swapping ratio (set vm.swappiness=10 or less)
+[20:47:50] Refer to this page for more performance suggestions: https://apacheignite.readme.io/docs/jvm-and-system-tuning
+[20:47:50]
+[20:47:50] To start Console Management & Monitoring run ignitevisorcmd.{sh|bat}
+[20:47:50]
+[20:47:50] Ignite node started OK (id=c743002a)
+[20:47:50] Topology snapshot [ver=2, locNode=c743002a, servers=2, clients=0, state=ACTIVE, CPUs=8, offheap=6.1GB, heap=1.8GB]
+[20:47:50]   ^-- Baseline [id=0, size=2, online=2, offline=0]
+1497509 [Thread-246] INFO SeparateJVM$Server - Reported START	c743002a-3ac4-4e3c-a9e9-c0bbc53a8995
+5099 [main] INFO SeparateJVM$Server - Reporting START	1174ad24-a9f1-4edb-b1a1-79c79a8b4ec5 to port 48000
+1497511 [Thread-246] INFO SeparateJVM$Server - Reported START	1174ad24-a9f1-4edb-b1a1-79c79a8b4ec5
+1497608 [main] INFO SeparateJVM$Server - All nodes up
+1497609 [main] INFO Node - Working dir: /tmp/Client6521715938607558917
+1497609 [main] INFO SeparateJVM$Server - Stopping node 90e694e7-467d-4cc0-806a-1599c085cdbf
+
+class org.apache.ignite.cluster.ClusterGroupEmptyException: Topology projection is empty.
+
+	at org.apache.ignite.internal.util.IgniteUtils$6.apply(IgniteUtils.java:937)
+	at org.apache.ignite.internal.util.IgniteUtils$6.apply(IgniteUtils.java:935)
+	at org.apache.ignite.internal.util.IgniteUtils.convertException(IgniteUtils.java:1093)
+	at org.apache.ignite.internal.IgniteComputeImpl.execute(IgniteComputeImpl.java:499)
+	at org.apache.ignite.internal.cluster.IgniteClusterImpl.stopNodes(IgniteClusterImpl.java:290)
+	at SeparateJVM.stopNodeWithServiceOnIt(SeparateJVM.java:95)
+	at SeparateJVM.clusterNodeDownMovesServiceToNextNode(SeparateJVM.java:59)
+	at sun.reflect.GeneratedMethodAccessor20.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:52)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:221)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: class org.apache.ignite.internal.cluster.ClusterGroupEmptyCheckedException: Topology projection is empty.
+	at org.apache.ignite.internal.processors.task.GridTaskWorker.getTaskTopology(GridTaskWorker.java:689)
+	at org.apache.ignite.internal.processors.task.GridTaskWorker.body(GridTaskWorker.java:502)
+	at org.apache.ignite.internal.util.worker.GridWorker.run(GridWorker.java:120)
+	at org.apache.ignite.internal.processors.task.GridTaskProcessor.startTask(GridTaskProcessor.java:843)
+	at org.apache.ignite.internal.processors.task.GridTaskProcessor.execute(GridTaskProcessor.java:448)
+	at org.apache.ignite.internal.IgniteComputeImpl.executeAsync0(IgniteComputeImpl.java:525)
+	at org.apache.ignite.internal.IgniteComputeImpl.execute(IgniteComputeImpl.java:496)
+	... 67 more
+
