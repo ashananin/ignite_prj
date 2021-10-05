@@ -1,7 +1,10 @@
 import org.apache.ignite.Ignition;
 import org.apache.ignite.services.ServiceContext;
+import server.Server;
 
 import java.util.UUID;
+
+import static server.Server.sendReport;
 
 public class SingletonService implements ISingletonService {
     static final String SERVICE_NAME = "SingletonService";
@@ -14,14 +17,14 @@ public class SingletonService implements ISingletonService {
     }
 
     @Override
-    public void init(ServiceContext ctx) throws Exception {
+    public void init(ServiceContext ctx) {
         uuid = Ignition.localIgnite().cluster().localNode().id();
-        SeparateJVM.sendReport(reportPort, SeparateJVM.ReportType.INIT, uuid);
+        sendReport(reportPort, Server.ReportType.INIT, uuid);
     }
 
     @Override
-    public void execute(ServiceContext ctx) throws Exception {
-        SeparateJVM.sendReport(reportPort, SeparateJVM.ReportType.EXECUTE, uuid);
+    public void execute(ServiceContext ctx) {
+        sendReport(reportPort, Server.ReportType.EXECUTE, uuid);
         while (!ctx.isCancelled()) {
             Thread.yield();
         }
@@ -29,7 +32,6 @@ public class SingletonService implements ISingletonService {
 
     @Override
     public void cancel(ServiceContext ctx) {
-        SeparateJVM.sendReport(reportPort, SeparateJVM.ReportType.CANCEL, uuid);
+        sendReport(reportPort, Server.ReportType.CANCEL, uuid);
     }
-
 }
